@@ -15,3 +15,7 @@ string_invertida = inverter_string(string_original)
 # Imprime o resultado
 print("String original:", string_original)
 print("String invertida:", string_invertida)
+
+Resultado:
+Ola, TARGET!
+!TEGRAT, alO
